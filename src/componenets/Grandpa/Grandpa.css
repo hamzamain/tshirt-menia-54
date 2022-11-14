@@ -1,0 +1,26 @@
+.grandpa,
+.grandpa div {
+    border: 1px solid orange;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.grandpa h2 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.flex {
+    display: flex;
+}
+
+.grid3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.grid2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
